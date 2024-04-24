@@ -18,11 +18,15 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 ### 🛠️ Languages and Tools
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C-Sharp" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
----
+<div>
+	<img src="https://github.com/Ggjorven/Ggjorven/blob/main/icons/vulkan/vulkan-original.svg" title="Vulkan" alt="C++" width="80" height="80"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="80" height="80"/>
+</div>
 
+---
 ### 🔥 My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggjorven&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
