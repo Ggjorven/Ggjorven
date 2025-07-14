@@ -27,7 +27,7 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 <div>
 	<img src="https://github.com/Ggjorven/Ggjorven/blob/main/icons/vulkan/vulkan-original.svg" title="Vulkan" alt="C++" width="80" height="80"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="80" height="80"/>
-	<img src="https://github.com/Ggjorven/Ggjorven/blob/master/icons/directx/directx.svg" title="DirectX 12" alt=""DirectX 12" width="80" height="80"/>
+	<img src="https://raw.githubusercontent.com/Ggjorven/Ggjorven/master/icons/directx/directx-small.svg" title="DirectX 12" alt="DirectX 12" width="80" height="80"/>
 </div>
 
 ---
