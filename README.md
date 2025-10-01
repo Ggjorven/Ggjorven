@@ -32,4 +32,4 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 
 ---
 ### 🔥 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggjorven&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ggjorven&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
