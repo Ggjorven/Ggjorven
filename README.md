@@ -7,15 +7,16 @@
 
 ---
 
-### 👨‍💻 About Me:
+### About Me:
 I am a Software Engineer from the Netherlands, and I mainly work on lower level systems for game engines.
 
-- 💼 I'm currently a student.
-- ⚡ I'm currently working on my own game engine 'Lavender'.
+- I'm currently a student.
+- I'm currently working on my own game engine 'Lavender'.
+- I'm currently managing a homelab for my family
 
 --- 
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -31,5 +32,5 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 </div>
 
 ---
-### 🔥 My Stats
+### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ggjorven&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
