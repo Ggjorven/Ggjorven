@@ -13,6 +13,7 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 - I'm currently a student.
 - I'm currently working on my own game engine 'Lavender'.
 - I'm currently managing a homelab for my family
+- I'm currently learning Rust 🦀
 
 --- 
 
