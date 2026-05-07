@@ -12,7 +12,7 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 - I'm currently a student.
 - I'm currently working on my own graphics library [`Obsidian`](https://github.com/Ggjorven/Obsidian).
 - I'm currently managing a [`homelab`](https://github.com/Ggjorven/homelab) for my family.
-- I'm currently learning Rust.
+- I'm currently learning Rust 🦀.
 
 --- 
 
