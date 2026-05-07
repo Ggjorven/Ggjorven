@@ -1,13 +1,14 @@
 <div id="header">
 	<h1>
 		Hello there! 
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+		<img src="./gifs/giphy.gif" width="32px"/>
 	</h1>
 </div>
 
 ---
 
 ### About Me:
+
 I am a Software Engineer from the Netherlands, and I mainly work on lower level systems for game engines.
 
 - I'm currently a student.
@@ -18,18 +19,20 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 --- 
 
 ### Languages and Tools
+
 <div>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+	<img src="./icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+	<img src="./icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
+	<img src="./icons/lua/lua-plain.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+	<img src="./icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+	<img src="./icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+	<img src="./icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 
 <div>
-	<img src="https://github.com/Ggjorven/Ggjorven/blob/main/icons/vulkan/vulkan-original.svg" title="Vulkan" alt="Vulkan" width="80" height="80"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="80" height="80"/>&nbsp;
-	<img src="https://github.com/Ggjorven/Ggjorven/blob/main/icons/directx/directx-small.svg" title="DirectX 12" alt="DirectX 12" width="80" height="80"/>
+	<img src="./icons/vulkan/vulkan-original.svg" title="Vulkan" alt="Vulkan" width="80" height="80"/>&nbsp;
+	<img src="./icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="80" height="80"/>&nbsp;
+	<img src="./icons/directx/directx-small.svg" title="DirectX 12" alt="DirectX 12" width="80" height="80"/>
 </div>
 
 ---
