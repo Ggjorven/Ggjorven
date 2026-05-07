@@ -1,9 +1,7 @@
-<div id="header">
-	<h1>
-		Hello there! 
-		<img src="./gifs/giphy.gif" width="32px"/>
-	</h1>
-</div>
+<h1>
+    Hello there! 
+    <img src="./gifs/giphy.gif" width="32px"/>
+</h1>
 
 ---
 
@@ -12,9 +10,9 @@
 I am a Software Engineer from the Netherlands, and I mainly work on lower level systems for game engines.
 
 - I'm currently a student.
-- I'm currently working on my own game engine 'Lavender'.
-- I'm currently managing a homelab for my family
-- I'm currently learning Rust 🦀
+- I'm currently working on my own graphics library [`Obsidian`](https://github.com/Ggjorven/Obsidian).
+- I'm currently managing a [`homelab`](https://github.com/Ggjorven/homelab) for my family.
+- I'm currently learning Rust.
 
 --- 
 
@@ -36,5 +34,7 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 </div>
 
 ---
+
 ### My Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ggjorven&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
