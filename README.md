@@ -20,6 +20,7 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 
 <div>
 	<img src="./icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+	<img src="./icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 	<img src="./icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
 	<img src="./icons/lua/lua-plain.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
 	<img src="./icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,3 +39,4 @@ I am a Software Engineer from the Netherlands, and I mainly work on lower level 
 ### My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ggjorven&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ggjorven&layout=compact&theme=transparent)](https://git.io/streak-stats)
