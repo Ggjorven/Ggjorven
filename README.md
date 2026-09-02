@@ -26,6 +26,7 @@ During my long development journey I have used a wide variety of languages and t
 	<img src="./icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
 	<img src="./icons/lua/lua-plain.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
 	<img src="./icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+	<img src="./icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 	<img src="./icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 	<img src="./icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
